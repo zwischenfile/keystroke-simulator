@@ -1,3 +1,4 @@
+# Runtime dependencies for PW.py
 PySide6
 pydirectinput
 pyperclip
